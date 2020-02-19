@@ -1,0 +1,260 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-19 10:17+0100\n"
+"PO-Revision-Date: 2020-02-19 10:31+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#: gui/bars.py:7
+msgid "Zapisz"
+msgstr "Save"
+
+#: gui/bars.py:9
+msgid "Otwórz z ff.net"
+msgstr "Open from ff.net"
+
+#: gui/bars.py:10
+msgid "Otwórz z ao3"
+msgstr "Open from ao3"
+
+#: gui/bars.py:10
+msgid "Otwórz zao3"
+msgstr "Open from ao3"
+
+#: gui/bars.py:11
+msgid "Otwórz"
+msgstr "Open"
+
+#: gui/dialog.py:11
+msgid "Trwa ładowanie dokumentu. Proszę czekać"
+msgstr "Loading document. Please wait."
+
+#: gui/general.py:51
+#, python-format
+msgid ""
+"EasyRead v %s\n"
+"Prosty program do edycji tekstu\n"
+"Copyright © 2018 / 2020 by żywek\n"
+"Program korzysta z bibliotek otwartoźródłowych lub ich zamkniętych "
+"implementacji: PyMuPDF, Docx, ebooklib, fanfiction, odfpy, WxWidgets"
+msgstr ""
+"EasyRead v %s\n"
+"Simple text editor\n"
+"Copyright © 2018 / 2020 by żywek\n"
+"The application uses open sourced libraries or closed reimplementations: "
+"PyMuPDF, Docx, ebooklib, fanfiction, odfpy, WxWidgets"
+
+#: gui/general.py:51
+msgid "O programie"
+msgstr "About"
+
+#: gui/general.py:68 gui/general.py:83 gui/general.py:128
+#, python-format
+msgid "%s znaków, %s słów, %s linii"
+msgstr "%s characters, %s words, %s lines"
+
+#: gui/general.py:88
+msgid "Dokonano zmian w dokumencie. Czy chcesz go zapisać?"
+msgstr "The document is changed. Do you want to save it?"
+
+#: gui/general.py:88 gui/general.py:102 gui/general.py:154
+msgid "Uwaga"
+msgstr "Attention"
+
+#: gui/general.py:95
+msgid "Czy jesteś pewien, że chcesz zamknąć program?"
+msgstr "Are you sure you want to quit the application?"
+
+#: gui/general.py:95
+msgid "Wyjście"
+msgstr "Exit"
+
+#: gui/general.py:102
+msgid ""
+"Dokonano zmian w aktualnie otwartym dokumencie. Czy chcesz go zapisać przed "
+"otwarciem nowego?"
+msgstr ""
+"THe currently opened document has modified. Do you want to save it before "
+"opening a new document?"
+
+#: gui/general.py:134
+msgid "Nie potrafię jeszcze zapisywać dokumentów w tym formacie"
+msgstr "I cannot save documents in this format."
+
+#: gui/general.py:134
+msgid "Informacja"
+msgstr "Information"
+
+#: gui/general.py:145
+msgid "Wybierz plik do zapisu"
+msgstr "Choose file to save"
+
+#: gui/general.py:145
+msgid "Dokument tekstowy(*.txt)"
+msgstr "Text document (*.txt)"
+
+#: gui/general.py:145
+msgid "Dokument office 2007+ (*.docx)"
+msgstr "Office 2009+ document (*.docx)"
+
+#: gui/general.py:145
+msgid "Dokumenty Open Office (*.odt)"
+msgstr "Open office documents (*.odt)"
+
+#: gui/general.py:154
+msgid "Dokument został zmodyfikowany. Czy chcesz go zapisać?"
+msgstr "The document is changed. Do you want to save it?"
+
+#: gui/general.py:185
+msgid "Znajdź"
+msgstr "Find"
+
+#: gui/general.py:195
+msgid "Podaj ID historii z fanfiction.net"
+msgstr "Type the ID of the story from fanfiction.net"
+
+#: gui/general.py:198
+msgid "Ładowanie"
+msgstr "Loading"
+
+#: gui/general.py:216
+msgid "Przetwarzanie dokumentów"
+msgstr "Preparing documents"
+
+#: gui/general.py:216
+msgid "Ukończono przetwarzanie dokumentu."
+msgstr "FInished preparing the document"
+
+#: gui/general.py:221
+msgid "Podaj ID historii z ao3"
+msgstr "Type the ID of the story from ao3"
+
+#: gui/general.py:226
+msgid "Pobieranie"
+msgstr "Downloading"
+
+#: gui/general.py:226
+msgid "Pobieranie dokumentu z archiveofourown.org. To może chwilę potrwać"
+msgstr ""
+"Downloading the story from archiveofourown.org. This may take a while."
+
+#: gui/menu.py:5
+msgid "Dokument\tCTRL+O"
+msgstr "Document\tCTRL+O"
+
+#: gui/menu.py:5
+msgid "Otwiera dokument"
+msgstr "OPening a document"
+
+#: gui/menu.py:7
+msgid "&Fanfiction\tSHIFT+CTRL+F"
+msgstr "&Fanfiction\tSHIFT+CTRL+F"
+
+#: gui/menu.py:7
+msgid "Otwiera historię z fanfiction.net"
+msgstr "OPening a story from fanfiction.net"
+
+#: gui/menu.py:9
+msgid "Otwiera historię z ao3"
+msgstr "Opening a story from ao3"
+
+#: gui/menu.py:11
+msgid "&Otwórz"
+msgstr "&Open"
+
+#: gui/menu.py:13
+msgid "&Zapisz\tCTRL+S"
+msgstr "&Save\tCTRL+S"
+
+#: gui/menu.py:13
+msgid "Zapisz plik"
+msgstr "Save file"
+
+#: gui/menu.py:15
+msgid "Z&apisz jako\tCTRL+SHIFT+S"
+msgstr "S&ave as\tCTRL+SHIFT+S"
+
+#: gui/menu.py:15
+msgid "Zapisz tekst w innym formacie"
+msgstr "Save text into another format"
+
+#: gui/menu.py:17
+msgid "Zamknij dokument\tCTRL+W"
+msgstr "Close document\tCTRL+W"
+
+#: gui/menu.py:17
+msgid "Zamknij aktualnie otwarty dokument"
+msgstr "Close currently opened document"
+
+#: gui/menu.py:19
+msgid "Wyjś&cie\tCTRL+Q"
+msgstr "E&xit\tCTRL+Q"
+
+#: gui/menu.py:19
+msgid "Zamknij program"
+msgstr "Quit the application"
+
+#: gui/menu.py:21
+msgid "Z&aznacz wszystko\tCTRL+A"
+msgstr "&Select all\tCTRL+A"
+
+#: gui/menu.py:21
+msgid "Zaznacz wszystko"
+msgstr "Select all"
+
+#: gui/menu.py:22
+msgid "&Kopiuj\tCTRL+C"
+msgstr "&Copy\tCTRL+C"
+
+#: gui/menu.py:22
+msgid "Kopiuj zaznaczenie do schowka"
+msgstr "Copy selection to the clipboard"
+
+#: gui/menu.py:23
+msgid "Wkl&ej\tCTRL+V"
+msgstr "Past&e\tCTRL+V"
+
+#: gui/menu.py:23
+msgid "Wklej zaznaczenie"
+msgstr "Paste selection"
+
+#: gui/menu.py:25
+msgid "&Znajdź\tCTRL+F"
+msgstr "&Find\tCTRL+F"
+
+#: gui/menu.py:25
+msgid "Znajdź frazę"
+msgstr "Find frase"
+
+#: gui/menu.py:27
+msgid "&O programie"
+msgstr "&About"
+
+#: gui/menu.py:27
+msgid "O programie EasyRw"
+msgstr "About EasyRW"
+
+#: gui/menu.py:29
+msgid "&Plik"
+msgstr "&File"
+
+#: gui/menu.py:30
+msgid "&Edycja"
+msgstr "&Edit"
+
+#: gui/menu.py:31
+msgid "Pomo&c"
+msgstr "&Help"
